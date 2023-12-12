@@ -6,7 +6,7 @@ Hi, I'm Iemon! I like make something.
 | Links | Description |
 | --- | --- |
 | [cluster](https://cluster.mu/u/iemon_kun) | metaverse platform |
-| [MyVket](https://vket.com/room/MyRoom-iemon_kun) | metaverse SNS |
+| [MyVket](https://vket.com/profile/iemon_kun) | metaverse SNS |
 | [VRoid Hub](https://hub.vroid.com/users/61057414) | platform for 3D Characters |
 | [BOOTH](https://i-neridokoro.booth.pm/) | Creators Market |
 | [CoeFont](https://coefont.cloud/coefonts/496aa1f7-9269-4a30-aafc-70c0ade0bef6) | AI voice platform |

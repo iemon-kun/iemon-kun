@@ -3,7 +3,7 @@ Hi, I'm Iemon! I like make something.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iemon-kun&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/iemon-kun/github-readme-stats)
 
-| Links | Discription |
+| Links | Description |
 | --- | --- |
 | [cluster](https://cluster.mu/u/iemon_kun) | metaverse platform |
 | [MyVket](https://vket.com/room/MyRoom-iemon_kun) | metaverse SNS |

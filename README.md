@@ -13,5 +13,4 @@ Hi, I'm Iemon! I like make something.
 | [X](https://twitter.com/iemon_kun) | SNS |
 | [note](https://note.com/iemon_kun/) | media platform |
 | [GitHub](https://github.com/iemon-kun) | development platform |
-| [マシュマロ](https://marshmallow-qa.com/g02jro2kp53l6id?t=GxZSz7&utm_medium=url_text&utm_source=promotion) | Services that accept anonymous messages |
 | [FANBOX](https://iemon-kun.fanbox.cc/) | Monthly support　|

@@ -17,4 +17,3 @@ Hi, I'm Iemon! I like make something.
 | [X](https://twitter.com/iemon_kun) | SNS |
 | [note](https://note.com/iemon_kun/) | media platform |
 | [GitHub](https://github.com/iemon-kun) | development platform |
-| [FANBOX](https://iemon-kun.fanbox.cc/) | Monthly support　|
